@@ -5,11 +5,11 @@ langchain-community==0.2.16
 langchain-groq==0.1.9
 langgraph==0.2.20
 
-chromadb
+chromadb==0.5.11
+sentence-transformers==3.0.1
 
-PyMuPDF
+PyMuPDF==1.26.3
+Pillow==10.4.0
 
-sentence-transformers
-
-python-dotenv
-duckduckgo-search
+python-dotenv==1.0.1
+duckduckgo-search==6.2.10
