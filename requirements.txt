@@ -3,17 +3,13 @@ streamlit==1.38.0
 langchain==0.2.16
 langchain-community==0.2.16
 langchain-groq==0.1.9
-langchain-huggingface==0.0.3
 langgraph==0.2.20
 
-chromadb==0.5.11
-PyMuPDF==1.26.3
+chromadb
 
-sentence-transformers==3.0.1
-huggingface-hub==0.24.6
-transformers==4.44.2
-torch==2.3.1
+PyMuPDF
 
-python-dotenv==1.0.1
-duckduckgo-search==6.2.10
-python-multipart==0.0.9
+sentence-transformers
+
+python-dotenv
+duckduckgo-search
